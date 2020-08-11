@@ -2,7 +2,7 @@
 ## Cryptocurrency Price Webapp using Streamlit and Yahoo Finance
 
 To run the Webapp:
-1. Open command prompt and activate your environment.
+1. Open command prompt and activate your Python environment.
 2. pip install yfinance.
 3. pip install streamlit.
 4. pip install PIL.
