@@ -11,8 +11,6 @@ import yfinance as yf  # Yahoo finance to get stock data
 import streamlit as st  # Streamlit to create the webapp
 from PIL import Image  # Import Pillow to add icons
 from urllib.request import urlopen  # To add URLS
-import plotly.figure_factory as ff
-import plotly.graph_objects as go
 
 st.write("""
 
