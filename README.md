@@ -1,5 +1,5 @@
 # Cryptocurrency-Price-Webapp
-## Top 5 Cryptocurrency Price Webapp using Streamlit and Yahoo Finance
+## Cryptocurrency Price Webapp using Streamlit and Yahoo Finance
 
 To run the Webapp:
 1  Open command prompt and activate your environment 
