@@ -8,4 +8,3 @@ To run the Webapp:
 4. pip install PIL
 5. Navigate to the downlaod location using 'cd' command
 6. Run the command 'streamlit run Crypto_Prices.py'
-
