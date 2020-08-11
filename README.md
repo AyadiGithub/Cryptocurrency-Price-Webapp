@@ -7,5 +7,5 @@ To run the Webapp:
 3. pip install PIL (in your environment)
 4. Open command prompt and activate the environment 
 5. Navigate to the downlaod location using 'cd' command
-5. Run the command 'streamlit run Crypto_Prices.py'
+6. Run the command 'streamlit run Crypto_Prices.py'
 
